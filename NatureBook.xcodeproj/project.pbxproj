@@ -14,6 +14,7 @@
 		C2FE7C45286987C80051D660 /* NatureBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C2FE7C43286987C80051D660 /* NatureBook.xcdatamodeld */; };
 		C2FE7C47286987C90051D660 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2FE7C46286987C90051D660 /* Assets.xcassets */; };
 		C2FE7C4A286987C90051D660 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2FE7C48286987C90051D660 /* LaunchScreen.storyboard */; };
+		C2FE7C52286989070051D660 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FE7C51286989070051D660 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C2FE7C46286987C90051D660 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2FE7C49286987C90051D660 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2FE7C4B286987C90051D660 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2FE7C51286989070051D660 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				C2FE7C3A286987C80051D660 /* AppDelegate.swift */,
 				C2FE7C3C286987C80051D660 /* SceneDelegate.swift */,
 				C2FE7C3E286987C80051D660 /* ViewController.swift */,
+				C2FE7C51286989070051D660 /* ViewController2.swift */,
 				C2FE7C40286987C80051D660 /* Main.storyboard */,
 				C2FE7C46286987C90051D660 /* Assets.xcassets */,
 				C2FE7C48286987C90051D660 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2FE7C52286989070051D660 /* ViewController2.swift in Sources */,
 				C2FE7C3F286987C80051D660 /* ViewController.swift in Sources */,
 				C2FE7C45286987C80051D660 /* NatureBook.xcdatamodeld in Sources */,
 				C2FE7C3B286987C80051D660 /* AppDelegate.swift in Sources */,
